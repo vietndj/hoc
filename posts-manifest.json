@@ -1,0 +1,74 @@
+{
+  "site_id": "hoc",
+  "generated_at": "2026-10-26T06:26:37.870440+07:00",
+  "total_posts": 5,
+  "cover_stats": {
+    "mapped": 5,
+    "local_asset": 0,
+    "embedded": 0,
+    "fallback": 0
+  },
+  "unmapped_count": 0,
+  "posts": [
+    {
+      "filename": "01-mo-ta-vi-mo-10-dau-an-co-the.html",
+      "title": "Mô Tả Vi Mô & 10 Dấu Ấn Cơ Thể",
+      "excerpt": "Khả năng quan sát sâu sắc để trích xuất các phản xạ vật lý vi mô (khựng nhịp thở, bạnh hàm, nuốt khan, trắng đốt ngón tay, dạ dày lộn nhào...).",
+      "category_key": "other",
+      "category_label": "📌 Tài Liệu Chuyên Đề",
+      "cover_image": "https://media.fedu.vn/k_covers/lol_xianxia_hoc01_leesin_godfist.webp",
+      "cover_source": "mapped",
+      "updated_at": "2026-09-16T08:08:07+07:00",
+      "read_time": "2 phút đọc",
+      "file_size_kb": 3.8
+    },
+    {
+      "filename": "02-logic-viet-kich-ban-4-tang.html",
+      "title": "Logic Viết Kịch Bản 4 Tầng",
+      "excerpt": "Trục xương sống của mọi kịch bản quảng cáo sắc bén không bao giờ dừng lại ở lợi ích bề mặt. Nó phải khoan thủng 4 tầng nhận thức:",
+      "category_key": "script",
+      "category_label": "📝 Kịch Bản Thực Chiến",
+      "cover_image": "https://media.fedu.vn/k_covers/lol_xianxia_hoc02_ryze_four_realms.webp",
+      "cover_source": "mapped",
+      "updated_at": "2026-09-16T08:08:07+07:00",
+      "read_time": "2 phút đọc",
+      "file_size_kb": 4.1
+    },
+    {
+      "filename": "03-sinh-hoc-tien-hoa-cheater-detection.html",
+      "title": "Bản Chất Sinh Học Tiến Hóa",
+      "excerpt": "Não bộ con người được thiết kế qua hàng triệu năm tiến hóa luôn bật sẵn \"Máy dò kẻ lừa dối\" (Cheater Detection Mechanism) .",
+      "category_key": "science",
+      "category_label": "🧠 Kho Logic & Tâm Lý",
+      "cover_image": "https://media.fedu.vn/k_covers/lol_xianxia_hoc03_rengar_nightbringer.webp",
+      "cover_source": "mapped",
+      "updated_at": "2026-09-16T08:08:07+07:00",
+      "read_time": "2 phút đọc",
+      "file_size_kb": 3.8
+    },
+    {
+      "filename": "04-huyet-dao-tang-2-5-giu-the-dien.html",
+      "title": "Huyệt Đạo Tầng 2.5 (Giữ Thể Diện)",
+      "excerpt": "Người lớn không bao giờ chủ động phơi bày sự yếu kém. Khả năng đọc vị Mô hình Nhị phân 1 chạm là chìa khóa tối thượng:",
+      "category_key": "other",
+      "category_label": "📌 Tài Liệu Chuyên Đề",
+      "cover_image": "https://media.fedu.vn/k_covers/lol_xianxia_hoc04_shen_bloodmoon.webp",
+      "cover_source": "mapped",
+      "updated_at": "2026-09-16T08:08:07+07:00",
+      "read_time": "2 phút đọc",
+      "file_size_kb": 3.9
+    },
+    {
+      "filename": "05-cong-thuc-7-cau-thoai-thuc-chien.html",
+      "title": "Đóng Gói Bằng Công Thức 7 Câu",
+      "excerpt": "Lý thuyết phân tích tâm lý phức tạp phải được nén chặt thành vũ khí kịch bản cực ngắn (30-40 giây).",
+      "category_key": "script",
+      "category_label": "📝 Kịch Bản Thực Chiến",
+      "cover_image": "https://media.fedu.vn/k_covers/lol_xianxia_hoc05_masteryi_eternal_sword.webp",
+      "cover_source": "mapped",
+      "updated_at": "2026-09-16T08:08:07+07:00",
+      "read_time": "2 phút đọc",
+      "file_size_kb": 3.7
+    }
+  ]
+}

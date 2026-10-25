@@ -1,0 +1,17 @@
+{
+  "site_id": "hoc",
+  "title": "KHO LƯU TRỮ HỌC • Hệ Thống Kiến Thức Vi Mô & Kịch Bản Thực Chiến",
+  "brand_badge": "H",
+  "brand_name": "HỌC",
+  "github_repo": "vietndj/hoc",
+  "allow_embedded_cover": false,
+  "live_discovery": false,
+  "cover_base_url": "https://media.fedu.vn/k_covers",
+  "exclude_files": [
+    "index.html",
+    "hub.html",
+    "404.html",
+    "fix-url.html",
+    "admin.html"
+  ]
+}
